@@ -1,5 +1,5 @@
 # Proyecto-Final
-ESPECIFICACIONES
+ESPECIFICACIONES -
 
   Todas las variables deberán ser privadas
   Todas las clases deberán tener un constructor vacio y c/parámetros
